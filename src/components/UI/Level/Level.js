@@ -21,8 +21,8 @@ export const Level = () => {
     return (
 		<div className="selectLevel">
 			<>
-        <ConnectWalletButton userId="victory" className="connect-wallet-button-ex"/>
-        <MacModalTrigger userId="victory" backendConfig={{ enabled: true }} />
+        <ConnectWalletButton userId="Victory" className="connect-wallet-button-ex"/>
+        <MacModalTrigger userId="Victory" backendConfig={{ enabled: true }} />
       </>
 			<div className="u-container">
 				<div className="u-ribbon">Choose Level</div>
